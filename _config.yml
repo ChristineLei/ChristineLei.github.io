@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -30,3 +31,6 @@ link_to:
   #cocoa_all_pods:  https://cocoapods.org/owners/7316
   #itunes_all_apps: https://itunes.apple.com/us/developer/kaunteya-suryawanshi/id927381428
   #github_profile_pic: https://avatars3.githubusercontent.com/u/2352321?v=3&s=460
+=======
+theme: jekyll-theme-time-machine
+>>>>>>> 8fd3df2ccf2f083373d70fcbd1c06cbb39741a8e
